@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "target": "es5",
+    "strict": true,
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "jsx": "react",
+    "lib": ["esnext", "dom"]
+  }
+}
